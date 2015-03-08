@@ -83,9 +83,9 @@ django-jsonfield
 django-hstore
 docker-py
 factory-boy
-djangorestframework==2.4.3
+djangorestframework==3.0.4
+git+https://github.com/djangonauts/django-rest-framework-gis
 djangorestframework-hstore
-djangorestframework-gis
 pytest
 pytest-django
 django-permission
